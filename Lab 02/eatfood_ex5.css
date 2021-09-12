@@ -1,0 +1,53 @@
+.content{
+    border: 4px solid white;
+    background-color: white;
+}
+
+body{
+    background-image: url("images/background.gif");
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+
+#footer{
+    background-color: white;
+    text-align: center;
+}
+
+.bborder{
+    border: solid;
+    border-color: rgb(168,213, 255);
+    background-color: rgb(196,226, 255);
+    padding: 5px;
+    margin-top: 10px;
+    overflow: auto;
+}
+header{
+    border: 4px solid white;
+    background-color: rgb(168,213, 255);
+    text-align: right;
+}
+
+.img{
+    float: right;
+}
+
+.clearfix{
+    overflow: auto;
+}
+
+.span{
+    border-bottom: dashed;
+    border-color: black;
+    border-width: 2px;
+}
+
+nav{
+    border: solid;
+    border-color: rgb(168,213, 255);
+    background-color: rgb(196,226, 255);
+    padding: 5px;
+    margin: 5px;
+    float: left;
+}
